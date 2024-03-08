@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" >
+<!--Anthony Corona
+    File Name: Index.html
+    Date: 01/10/23
+-->
+<head>
+    <meta charset="UTF-8">
+    <title>Strike A Chord</title>
+</head>
+<body>
+    <header>
+        <h1>Strike A Chord</h1>
+    </header>
+    <nav>
+        <p>Home &nbsp; &#124; &nbsp;
+            Lessons &nbsp; &#124; &nbsp;
+            Instructors &nbsp; &#124; &nbsp;
+            Rentals &nbsp; &#124; &nbsp;
+            Contact
+        </p>
+    </nav>
+    <footer>
+        <p>Welcome to Strike a Chord. We are a musical store, specializing in lessons and rental equipment. 
+        Our Mission is to provide world-class instruction with each music lesson</p>
+        <p>We Provide lessons for several musical instruments, including piano,guitar, and violin. 
+        Your First two lessons are FREE. Contact us today to get started</p>
+    </footer>
+    <!-- Comment Example -->
+    <main>
+        <p>©Copyright 2021. All rights reserve</p>
+        <p>lessons@strikeachord.net</p>
+    </main>
+</body>
+</html>
